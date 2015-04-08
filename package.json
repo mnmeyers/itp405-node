@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
+    "mysql": "^2.6.1",
+    "sequelize": "^2.0.5",
+    "underscore": "^1.8.2"
+  }
+}
